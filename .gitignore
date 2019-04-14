@@ -1,0 +1,8 @@
+*.exe
+*.app
+*.o
+*.obj
+*.ppm
+*.out
+*~
+.*.sw*
